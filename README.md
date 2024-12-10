@@ -11,7 +11,7 @@ I'm passionate about web development, especially front-end technologies. I'm cur
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" height="30px">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="30px">
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="30px">
-    <img src="https://img.shields.io/badge/sass-%23563D7C.svg?style=for-the-badge&logo=sass&logoColor=white" height="30px">
+    <img src="https://img.shields.io/badge/saas-%23563D7C.svg?style=for-the-badge&logo=saas&logoColor=white" height="30px">
     <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" height="30px">
     <img src="https://img.shields.io/badge/tailwind-%23563D7C.svg?style=for-the-badge&logo=tailwind&logoColor=white" height="30px">
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="30px">
